@@ -153,7 +153,7 @@ nav a:hover {
 
   background:
     linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)),
-    url('../img/fon.png') center/cover no-repeat;
+    url('img/fon.png') center/cover no-repeat;
 }
 
 .hero-content {
